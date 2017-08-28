@@ -4,13 +4,13 @@ title: Resources
 permalink: /resources/
 ---
 
-All of the slides for this course can be accessed via [github](https://github.com/andrewpbray/math-141) in the *assets* folder.
+All of the slides for this course can be accessed via [github](https://github.com/andrewpbray/math-141) in the *assets* folder. All of the communication will take place in our [slack group](https://math-141-f17.slack.com/).
 
 Your first stop for any help related to computing with data should be this book:
 
 [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
 
-You can also seek help from its author, Chester Ismay in ITS. Other resources:
+Other resources:
 
 #### RMarkdown
 - [Reproducible Research through R Markdown](https://prezi.com/dvmgx17e_was/reproducible/)
