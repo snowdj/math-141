@@ -27,7 +27,7 @@ of applications from the natural and social sciences will be used.
 
 **Evening Help Session**
 
-- Weds and Sun from 7 - 9 PM in L 318 (math lounge)
+- TBA
 
 ### Textbook
 
@@ -48,10 +48,10 @@ on the first two, see the tabs at the top of the page.
 We'll have several examinations and quizzes throughout the semester in order to challenge your understanding and provide us with a sense of where you're at. Some will be more traditional pen and paper and others are to be done with the computer using R.
 
 **Midterm I**  
-Friday, Feb 16, 2016 (tentative)
+Date TBA
 
 **Midterm II**  
-Friday, March 24th, 2016 (tentative)
+Date TBA
 
 **Final**  
 Finals Week
