@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Sampling Demo"
 output: ioslides_presentation
 ---
 
